@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0x;
+    font-family: 'Roboto', sans-serif;
+}
+.headerimg{
+    height: auto;
+    width: 100%;
+ 
+    }
+  
+  .header1{
+   color: white;
+    position: absolute;
+    bottom: 600px;
+    left: 1100px;
+    font-weight: 700;
+    font-size: 80px;
+  }
+  .header2{
+    position: absolute;
+    bottom: 400px;
+    left: 1100px;
+    font-weight: 600;
+    font-size: 35px;
+    color: white;
+    
+  }
+  .btn{
+    color: #7CB9E8;
+    position: absolute;
+    left: 1100px;
+    bottom: 250px;
+    font-size: 33px;
+    background-color: white;
+    font-weight: 800;
+    border-radius: 6px;
+    border: 0;
+    padding: 20px;
+    
+
+  }
+.btn:hover{
+    background-color: greenyellow;
+    color: red;
+}
