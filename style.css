@@ -237,3 +237,84 @@
             top: 350px;
             left: 220px;
         }
+        .resume{
+            position: absolute;
+            top: 3300px;
+            left: 500px;
+          }
+          .resume-content{
+            display: flex;
+            gap: 40px;
+            position: absolute;
+            
+            
+           
+            
+          }
+          .resume-item .title{
+            font-weight: 700;
+            font-size: 35px;
+            color: #474747;
+            
+          }
+          .resume-item .subtitle{
+              color: #757575;
+              font-weight: 600;
+              font-size: 20px;
+          }
+          .resume-item .des{
+            color: #757575;
+            font-size: 20px; 
+            justify-content: center;
+            width: 500px;
+            align-items: center
+           
+          }
+          .resume-title{
+            font-weight: 800;
+            font-size: 33px;
+          }
+          .resume-title{
+           margin-top: 30px;
+           margin-bottom: 30px;}
+           .section-title{
+            position: absolute;
+            font-size: 40px;
+            left: 250px;
+            bottom: 90px;
+            width: 500px;
+
+           }
+           .lowerpart{
+            position: relative;
+            background-color: black; 
+            height: 500px;
+            top: 3150px;
+            
+           }
+           .contact{
+            position: absolute;
+            top: 4200px;
+            color: white;
+            width: 600px;
+            display: flex;
+
+           }
+          
+            
+           
+           .section-title3{
+            position: absolute;
+            left: 1250px;
+            font-size: 30px;
+           }
+    .section-title1{
+        font-size: 30px;
+    }
+    
+    
+    .maa{
+        position: absolute;
+        top: 200px;
+
+    }
