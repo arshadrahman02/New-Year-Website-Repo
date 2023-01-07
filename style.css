@@ -43,6 +43,7 @@
 .btn:hover{
     background-color: greenyellow;
     color: red;
+    cursor: pointer;
 }
 
 .about{
@@ -75,3 +76,164 @@
     position: absolute;
     left: 200px;
     top: 1100px;}
+    .plan{
+        position: absolute;
+        left: 830px;
+        top: 2000px;
+        font-size: 45px;
+        width: 600px;
+      }
+     .myplan{
+       display: flex;
+       position: absolute;
+       bottom: -1400px;
+       left: 1000px;
+       
+       
+     }
+     .skillimg{
+       position: absolute;
+       right: 605px;
+       bottom: 20px;
+       font-size: px;
+       width: 180px;
+       height: 180px;
+       
+     }
+     .skillimg2{
+       position: absolute;
+       right: 300px;
+       bottom: 20px;
+       font-size: px;
+       width: 180px;
+       height: 180px;
+       
+     }
+     .skillimg3{
+       position: absolute;
+       right: 20px;
+       bottom: 20px;
+       font-size: px;
+       width: 180px;
+       height: 180px;
+     }
+     .skillimg4{
+       position: absolute;
+       left: 100px;
+       bottom: 10px;
+       font-size: px;
+       width: 180px;
+       height: 180px;
+     }
+     .skill-title1{
+       position: absolute;
+       right : 530px;
+       top: 70px;
+       font-size: 30px;
+       font-weight: 600;
+       width: 300px;
+     }
+     .skill-title2{
+       position: absolute;
+       right : 320px;
+       top: 70px;
+       font-size: 30px;
+       font-weight: 600;
+     }
+     .skill-title3{
+       position: absolute;
+       right : 42px;
+       top: 70px;
+       font-size: 30px;
+       font-weight: 600;
+     }
+     .skill-title4{
+       position: absolute;
+       left : 120px;
+       top: 70px;
+       font-size: 30px;
+       font-weight: 600;
+       width: 180px;
+     }
+     .skill-des1{
+       position: absolute;
+       right : 600px;
+       top: 120px;
+       font-size: 30px;
+       width: 200px;
+     }
+     .skill-des2{
+       position: absolute;
+       right : 200px;
+       top: 120px;
+       font-size: 30px;
+       width: 300px;
+     }
+     .skill-des3{
+       position: absolute;
+       right : -7px;
+       top: 120px;
+       font-size: 30px;
+       width: 200px;
+     }
+     .skill-des4{
+       position: absolute;
+       left : 120px;
+       top: 120px;
+       font-size: 30px;
+       width: 400px;
+     }
+     .skill{
+        position: absolute;
+        top: 3500;
+        left: 210px;
+     }
+     .gar{
+        position: absolute;
+        top: 2400px;
+        left: 180px;
+        
+      }
+      .gar2{
+        position: absolute;
+        top: 2400px;
+        left: 180px;
+        mix-blend-mode: soft-light;
+        opacity: 90%;
+      }
+      .gar3{
+       position: absolute;
+       top: 2450px;
+       left: 200px;
+       color: white;
+       font-size: 38px;
+       font-weight: 800;
+       width: 400px;
+      }
+      .btn2{
+        position: absolute;
+        top: 2600px;
+        left: 200px;
+        color: #7CB9E8;
+        background-color: white;
+        font-size: 38px;
+        font-weight: 900px;
+        border-radius: 10px;
+        width: 200px;
+        border: 0;
+      }
+      .btn2:hover{
+        background-color: chartreuse;
+        color:  orangered;
+        cursor: pointer;
+      }
+      
+      .gar5{
+        font-size: 25px;
+        padding: 10px 35px;
+        font-weight: 700;}
+        .grad{
+            position: absolute;
+            top: 350px;
+            left: 220px;
+        }
