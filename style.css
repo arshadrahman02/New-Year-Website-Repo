@@ -44,3 +44,34 @@
     background-color: greenyellow;
     color: red;
 }
+
+.about{
+    display: flex;
+  }
+  .about1{
+    position: absolute;
+    left: 850px;
+    top: 1310px;
+    font-size: 40px;
+    width: 600px;
+  }
+  .about2{
+       position: absolute;
+       left: 850px;
+       top: 1500px;
+       font-size: 30px;
+       width: 600px;
+  
+  }
+  .about3{
+    position: absolute;
+    left: 860px;
+    top: 1400px;
+    font-size: 20px;
+    width: 600px
+    
+  }
+  .about-img{
+    position: absolute;
+    left: 200px;
+    top: 1100px;}
